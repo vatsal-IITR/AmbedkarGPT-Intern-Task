@@ -1,4 +1,4 @@
-# AmbedkarGPT - simple local RAG demo using LangChain + Ollama + Chroma
+# AmbedkarGPT - simple local RAG demo 
 
 import os
 import sys
