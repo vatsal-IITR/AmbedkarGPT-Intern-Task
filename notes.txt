@@ -1,0 +1,10 @@
+TODOs / thoughts:
+
+- Might switch embeddings to larger model if needed.
+- Maybe add timestamped logging later.
+- Retrieval sometimes returns slightly irrelevant chunk → tweak k value?
+- Could package as CLI tool but not needed for now.
+
+Test prompts:
+- "What does Ambedkar say is the real obstacle?"
+- "Does the speech talk about caste?"
